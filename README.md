@@ -1,4 +1,4 @@
-# NeoPixel driver
+# NeoPixel driver (clone)
 
 This library provides a driver for various Neo Pixel LED strips, 
 see https://www.adafruit.com/category/168
